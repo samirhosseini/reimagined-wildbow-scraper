@@ -9,7 +9,7 @@
     "cheerio": "^1.0.0-rc.2",
     "commander": "^2.11.0",
     "epub-gen": "0.0.17",
-    "follow-redirects": "^1.2.4"
+    "follow-redirects": "^1.14.8"
   },
   "bin": "./app.js"
 }
